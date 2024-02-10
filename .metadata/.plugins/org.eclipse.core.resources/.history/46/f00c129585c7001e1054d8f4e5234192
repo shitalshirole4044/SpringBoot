@@ -1,0 +1,5 @@
+package com.jp.test.repo;
+
+public class UserRepository {
+
+}

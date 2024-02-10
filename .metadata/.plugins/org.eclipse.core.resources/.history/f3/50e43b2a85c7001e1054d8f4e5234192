@@ -1,0 +1,5 @@
+package com.jpa.test.repo.copy;
+
+public class UserRepository {
+
+}
